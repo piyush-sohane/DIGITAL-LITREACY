@@ -1,0 +1,24 @@
+                                                                                      "STAY SAFE ONLINE"
+                                                                                  
+                                                                                          CHECKLIST
+
+
+
+Stay Safe Online: Essential Checklist for Students
+UPI Safety (The "PIN" Rule): Never enter your UPI PIN to receive money. A PIN is strictly for sending or deducting money from your account. If someone asks for your PIN to "verify" a payment to you, it is a scam.
+
+2. QR Code Caution: Only scan QR codes at trusted, physical merchant locations. Avoid scanning any QR code sent via WhatsApp or email to "claim a prize" or "refund," as this can authorize an immediate transfer out of your account.
+
+3. Use Official Domains Only: When applying for scholarships, internships, or exams, ensure the website ends in .gov.in or .ac.in. Scammers often create "mirror" sites that look identical to official portals to steal your data.
+
+4. Protect Your Primary ID: Avoid sharing full photos of your Aadhaar or PAN card on social media or unsecured apps. Use a Masked Aadhaar (where only the last 4 digits are visible) whenever possible for general verification.
+
+5. Secure Your Project Repositories: If you use platforms like GitHub or Kaggle, ensure you never hardcode passwords, API keys, or personal credentials into your public code. These can be scraped by bots within seconds.
+
+6. Enable Two-Factor Authentication (2FA): Turn on 2FA for your university email, LinkedIn, and primary Gmail accounts. This adds a vital second layer of security that a password alone cannot provide.
+
+7. Verify Social Media "Job Offers": Be skeptical of high-paying "work from home" offers sent via DM or WhatsApp. Always verify the recruiter's identity on LinkedIn or the company's official career page before sharing any documents.
+
+8. Report Cyber Crimes Immediately: If you are a victim of financial fraud or identity theft, report it immediately to the National Cyber Crime Portal at cybercrime.gov.in.
+
+9. Use the 24/7 Helpline: For urgent assistance with financial cyber fraud, call the national helpline number 1930 instantly. Reporting within the first hour (the "Golden Hour") increases the chance of recovering lost funds.
